@@ -1,3 +1,9 @@
+/**
+* Checking code comments
+*  (\_/)
+*  ( . .)
+*  ('')('')
+*/
 import java.util.Scanner;
 
 public class DepositCalculator {
